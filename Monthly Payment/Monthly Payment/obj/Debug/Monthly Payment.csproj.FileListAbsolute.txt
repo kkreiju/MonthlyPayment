@@ -1,0 +1,11 @@
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.exe.config
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\bin\Debug\Monthly Payment.pdb
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.csproj.AssemblyReference.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.csproj.SuggestedBindingRedirects.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly_Payment.Form1.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly_Payment.Properties.Resources.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.csproj.GenerateResource.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.csproj.CoreCompileInputs.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Monthly Payment\Monthly Payment\obj\Debug\Monthly Payment.pdb
